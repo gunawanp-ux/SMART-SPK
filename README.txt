@@ -1,0 +1,1 @@
+Please run the setup_database.php file in your browser to create the necessary 'tbl_analisis' table and populate it with dummy data. You can do this by navigating to http://localhost/metode_smart/setup_database.php in your web browser. After running the file, you can delete it.
